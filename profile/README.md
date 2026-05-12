@@ -4,7 +4,7 @@
 
 **Erase the complexity. Keep the effect.**
 
-A solo web studio that takes a project from idea to launch — landing pages, e-commerce, internal tools, AI-powered sites. Planning, design, and engineering by one person, end to end. Most projects ship in 1–3 weeks with clean code and a smooth handover.
+A web studio that takes a project from idea to launch — landing pages, e-commerce, internal tools, AI-powered sites. Planning, design, and engineering end to end. Most projects ship in 1–3 weeks with clean code and a smooth handover.
 
 <br />
 
